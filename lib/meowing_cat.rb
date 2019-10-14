@@ -1,2 +1,2 @@
-Class Cat 
+class Cat 
 end 
