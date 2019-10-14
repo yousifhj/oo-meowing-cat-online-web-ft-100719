@@ -6,4 +6,4 @@ class Cat
   end 
 end 
 
-fido
+fido = 
